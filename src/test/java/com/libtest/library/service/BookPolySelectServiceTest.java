@@ -1,10 +1,9 @@
 package com.libtest.library.service;
 
-import com.libtest.library.entity2.Author;
-import com.libtest.library.entity2.Book;
+import com.libtest.library.entity.Author;
+import com.libtest.library.entity.Book;
 import com.libtest.library.exception.IllegalNumberException;
 import com.libtest.library.exception.PageNumberException;
-import com.libtest.library.service.BookPolySelectService;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

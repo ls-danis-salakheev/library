@@ -1,8 +1,8 @@
 package com.libtest.library.repo;
 
 
-import com.libtest.library.entity2.Author;
-import com.libtest.library.entity2.Book;
+import com.libtest.library.entity.Author;
+import com.libtest.library.entity.Book;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

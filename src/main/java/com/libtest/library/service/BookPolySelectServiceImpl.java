@@ -1,6 +1,6 @@
 package com.libtest.library.service;
 
-import com.libtest.library.entity2.Book;
+import com.libtest.library.entity.Book;
 import com.libtest.library.exception.IllegalNumberException;
 import com.libtest.library.exception.PageNumberException;
 import com.libtest.library.repo.BookRepository;

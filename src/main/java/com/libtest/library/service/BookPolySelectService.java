@@ -1,6 +1,6 @@
 package com.libtest.library.service;
 
-import com.libtest.library.entity2.Book;
+import com.libtest.library.entity.Book;
 
 import java.util.List;
 

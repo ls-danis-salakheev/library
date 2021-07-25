@@ -1,6 +1,6 @@
 package com.libtest.library.service.crud;
 
-import com.libtest.library.entity2.Book;
+import com.libtest.library.entity.Book;
 import com.libtest.library.exception.EntityNotFoundException;
 import com.libtest.library.exception.EntityPersistenceException;
 import com.libtest.library.repo.BookRepository;

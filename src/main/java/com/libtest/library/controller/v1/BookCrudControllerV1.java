@@ -1,6 +1,6 @@
 package com.libtest.library.controller.v1;
 
-import com.libtest.library.entity2.Book;
+import com.libtest.library.entity.Book;
 import com.libtest.library.service.crud.EntityCrudService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

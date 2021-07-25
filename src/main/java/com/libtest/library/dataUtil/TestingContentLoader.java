@@ -1,8 +1,8 @@
 package com.libtest.library.dataUtil;
 
 import com.libtest.library.dto.BookDto;
-import com.libtest.library.entity2.Author;
-import com.libtest.library.entity2.Book;
+import com.libtest.library.entity.Author;
+import com.libtest.library.entity.Book;
 import com.libtest.library.repo.BookRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
